@@ -1,2 +1,4 @@
-fishnet_stocking
+fishnet stocking
 ================
+
+Fishnet stocking is a SOCKS5 daemon.
